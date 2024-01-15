@@ -1,11 +1,11 @@
-En este ejemplo se ejecuta la función debounce utilizando TypeScript y TDD
-y relizando el test para comprobar la funcionalidad de la función debounce:
+En este ejemplo se ejecuta la función memoize utilizando TypeScript y TDD
+y realizando el test para comprobar la funcionalidad de la función memoize:
 
 - ts-jest
 - Github Actions
 - Pequeño ejemplo de código funcional con export
 
-La configuración del debugger apunta a src/debounce.ts como archivo de inicio del proyecto.
+La configuración del debugger apunta a src/memoize.ts como archivo de inicio del proyecto.
 
 Comandos:
 
